@@ -1,4 +1,6 @@
 from statsmodels.stats.proportion import proportions_ztest
+import pandas as pd
+import numpy as np
 
 chat_id = 356550601
 
